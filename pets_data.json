@@ -1,0 +1,2510 @@
+[
+  {
+    "Name": "Shiny Mythic The Overlord",
+    "Rarity": "Mythic",
+    "Value": "17,000",
+    "Demand": "high"
+  },
+  {
+    "Name": "Shiny Mythic Manarium",
+    "Rarity": "Mythic",
+    "Value": "4,500",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Midas",
+    "Rarity": "Mythic",
+    "Value": "2,750",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Cardinal Bunny",
+    "Rarity": "Mythic",
+    "Value": "2,500",
+    "Demand": "high"
+  },
+  {
+    "Name": "Shiny Mythic Crescent Empress",
+    "Rarity": "Mythic",
+    "Value": "2,250",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Starlight",
+    "Rarity": "Mythic",
+    "Value": "2,000",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Moonlight",
+    "Rarity": "Mythic",
+    "Value": "1,750",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Sigma Serpent",
+    "Rarity": "Mythic",
+    "Value": "1,500",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Chocolate Bunny",
+    "Rarity": "Mythic",
+    "Value": "1,500",
+    "Demand": "high"
+  },
+  {
+    "Name": "Shiny Mythic King Pufferfish",
+    "Rarity": "Mythic",
+    "Value": "1,350",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Avernus",
+    "Rarity": "Mythic",
+    "Value": "O/C",
+    "Demand": "high"
+  },
+  {
+    "Name": "Shiny Mythic Godly Gem",
+    "Rarity": "Mythic",
+    "Value": "O/C",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Elite Soul",
+    "Rarity": "Mythic",
+    "Value": "O/C",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Overseer",
+    "Rarity": "Mythic",
+    "Value": "O/C",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Patronus",
+    "Rarity": "Mythic",
+    "Value": "O/C",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic King Doggy",
+    "Rarity": "Mythic",
+    "Value": "O/C",
+    "Demand": "insane"
+  },
+  {
+    "Name": "Shiny Mythic Mech Robot",
+    "Rarity": "Mythic",
+    "Value": "O/C",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Seraph",
+    "Rarity": "Mythic",
+    "Value": "O/C",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Mythic Giant Chocolate Chicken",
+    "Rarity": "Mythic",
+    "Value": "O/C",
+    "Demand": "insane"
+  },
+  {
+    "Name": "Shiny Mythic Royal Trophy",
+    "Rarity": "Mythic",
+    "Value": "O/C",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Holy Egg",
+    "Rarity": "Mythic",
+    "Value": "1,100",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic NULLVoid",
+    "Rarity": "Mythic",
+    "Value": "1,000",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Moon Deer",
+    "Rarity": "Mythic",
+    "Value": "1,000",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Trio Cube",
+    "Rarity": "Mythic",
+    "Value": "800",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Ophanim",
+    "Rarity": "Mythic",
+    "Value": "750",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Mythic DOOF",
+    "Rarity": "Mythic",
+    "Value": "600",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Parasite",
+    "Rarity": "Mythic",
+    "Value": "350",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Rainbow Marshmellow",
+    "Rarity": "Mythic",
+    "Value": "300",
+    "Demand": "high"
+  },
+  {
+    "Name": "Shiny Mythic Hacker Prism",
+    "Rarity": "Mythic",
+    "Value": "250",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Bionic Shard",
+    "Rarity": "Mythic",
+    "Value": "200",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Rainbow Shock",
+    "Rarity": "Mythic",
+    "Value": "150",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Abyssal Dragon",
+    "Rarity": "Mythic",
+    "Value": "150",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Dice Split",
+    "Rarity": "Mythic",
+    "Value": "100",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Mythic Ethereal Bunny",
+    "Rarity": "Mythic",
+    "Value": "100",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Mythic Dualcorn",
+    "Rarity": "Mythic",
+    "Value": "75",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Diamond Hexarium",
+    "Rarity": "Mythic",
+    "Value": "70",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Moonburst",
+    "Rarity": "Mythic",
+    "Value": "60",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Game Master",
+    "Rarity": "Mythic",
+    "Value": "30",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Sunburst",
+    "Rarity": "Mythic",
+    "Value": "30",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Queen Kitty",
+    "Rarity": "Mythic",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Crystal Unicorn",
+    "Rarity": "Mythic",
+    "Value": "0",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Emerald Golem",
+    "Rarity": "Mythic",
+    "Value": "0",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Inferno Cube",
+    "Rarity": "Mythic",
+    "Value": "0",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Hexarium",
+    "Rarity": "Mythic",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Mythic Inferno Dragon",
+    "Rarity": "Mythic",
+    "Value": "0",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Luminosity",
+    "Rarity": "Mythic",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Jackpot",
+    "Rarity": "Mythic",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Magmas",
+    "Rarity": "Mythic",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Toilet Doggy",
+    "Rarity": "Mythic",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Crimson Butterfly",
+    "Rarity": "Mythic",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Sir Doggyton",
+    "Rarity": "Mythic",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Dragon Plushie",
+    "Rarity": "Mythic",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Prophet",
+    "Rarity": "Mythic",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic D0ggy1337",
+    "Rarity": "Mythic",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Corrupt Glitch",
+    "Rarity": "Mythic",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Prismatic",
+    "Rarity": "Mythic",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Crimson Bloodmoon",
+    "Rarity": "Mythic",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Demonweb",
+    "Rarity": "Mythic",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Darkness Creature",
+    "Rarity": "Mythic",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Lord Shock",
+    "Rarity": "Mythic",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Electra",
+    "Rarity": "Mythic",
+    "Value": "0",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Seraphic Bunny",
+    "Rarity": "Mythic",
+    "Value": "0",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Demonic Hydra",
+    "Rarity": "Mythic",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Mythic Virus",
+    "Rarity": "Mythic",
+    "Value": "0",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Unicorn",
+    "Rarity": "Mythic",
+    "Value": "0",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Sweet Treat",
+    "Rarity": "Mythic",
+    "Value": "0",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Flying Pig",
+    "Rarity": "Mythic",
+    "Value": "0",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Easter Serpent",
+    "Rarity": "Mythic",
+    "Value": "0",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Dark Phoenix",
+    "Rarity": "Mythic",
+    "Value": "0",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Diamond Serpent",
+    "Rarity": "Mythic",
+    "Value": "0",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Stone Gargoyle",
+    "Rarity": "Mythic",
+    "Value": "0",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Lunar Serpent",
+    "Rarity": "Mythic",
+    "Value": "0",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Cyborg Phoenix",
+    "Rarity": "Mythic",
+    "Value": "0",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Wolflord",
+    "Rarity": "Mythic",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Capybara Plushie",
+    "Rarity": "Mythic",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Dementor",
+    "Rarity": "Mythic",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic MAN FACE GOD",
+    "Rarity": "Mythic",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic ROUND",
+    "Rarity": "Mythic",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Easter Basket",
+    "Rarity": "Mythic",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Silly Doggy",
+    "Rarity": "Mythic",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Green Hydra",
+    "Rarity": "Mythic",
+    "Value": "0",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Space Invader",
+    "Rarity": "Mythic",
+    "Value": "0",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Neon Elemental",
+    "Rarity": "Mythic",
+    "Value": "0",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mythic Nebula",
+    "Rarity": "Mythic",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "MAN FACE GOD",
+    "Rarity": "Normal",
+    "Value": "40,000",
+    "Demand": "very high"
+  },
+  {
+    "Name": "Dementor",
+    "Rarity": "Normal",
+    "Value": "35,500",
+    "Demand": "very high"
+  },
+  {
+    "Name": "Silly Doggy",
+    "Rarity": "Normal",
+    "Value": "15,000",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Godly Gem",
+    "Rarity": "Normal",
+    "Value": "14,500",
+    "Demand": "very high"
+  },
+  {
+    "Name": "Easter Basket",
+    "Rarity": "Normal",
+    "Value": "11,000",
+    "Demand": "very high"
+  },
+  {
+    "Name": "Giant Chocolate Chicken",
+    "Rarity": "Normal",
+    "Value": "7,000",
+    "Demand": "high"
+  },
+  {
+    "Name": "Prophet",
+    "Rarity": "Normal",
+    "Value": "4,000",
+    "Demand": "high"
+  },
+  {
+    "Name": "Lord Shock",
+    "Rarity": "Normal",
+    "Value": "3,800",
+    "Demand": "high"
+  },
+  {
+    "Name": "Wolflord",
+    "Rarity": "Normal",
+    "Value": "3,300",
+    "Demand": "very high"
+  },
+  {
+    "Name": "Elite Soul",
+    "Rarity": "Normal",
+    "Value": "2,200",
+    "Demand": "low"
+  },
+  {
+    "Name": "Royal Trophy",
+    "Rarity": "Normal",
+    "Value": "2,000",
+    "Demand": "high"
+  },
+  {
+    "Name": "Luminosity",
+    "Rarity": "Normal",
+    "Value": "1,300",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Avernus",
+    "Rarity": "Normal",
+    "Value": "1,200",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Elite Challenger",
+    "Rarity": "Normal",
+    "Value": "1,100",
+    "Demand": "low"
+  },
+  {
+    "Name": "Queen Kitty",
+    "Rarity": "Normal",
+    "Value": "1,100",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Dowodle",
+    "Rarity": "Normal",
+    "Value": "800",
+    "Demand": "very high"
+  },
+  {
+    "Name": "Patronus",
+    "Rarity": "Normal",
+    "Value": "700",
+    "Demand": "low"
+  },
+  {
+    "Name": "King Doggy",
+    "Rarity": "Normal",
+    "Value": "600",
+    "Demand": "low"
+  },
+  {
+    "Name": "Seraph",
+    "Rarity": "Normal",
+    "Value": "425",
+    "Demand": "low"
+  },
+  {
+    "Name": "Beta TV",
+    "Rarity": "Normal",
+    "Value": "400",
+    "Demand": "high"
+  },
+  {
+    "Name": "D0ggy1337",
+    "Rarity": "Normal",
+    "Value": "400",
+    "Demand": "low"
+  },
+  {
+    "Name": "Infernus",
+    "Rarity": "Normal",
+    "Value": "350",
+    "Demand": "high"
+  },
+  {
+    "Name": "Nebula",
+    "Rarity": "Normal",
+    "Value": "350",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Mech Robot",
+    "Rarity": "Normal",
+    "Value": "300",
+    "Demand": "low"
+  },
+  {
+    "Name": "Overseer",
+    "Rarity": "Normal",
+    "Value": "300",
+    "Demand": "low"
+  },
+  {
+    "Name": "Electra Hydra",
+    "Rarity": "Normal",
+    "Value": "250",
+    "Demand": "medium"
+  },
+  {
+    "Name": "The Overlord",
+    "Rarity": "Normal",
+    "Value": "250",
+    "Demand": "low"
+  },
+  {
+    "Name": "Jackpot",
+    "Rarity": "Normal",
+    "Value": "200",
+    "Demand": "high"
+  },
+  {
+    "Name": "Dark Serpent",
+    "Rarity": "Normal",
+    "Value": "150",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Enraged Phoenix",
+    "Rarity": "Normal",
+    "Value": "125",
+    "Demand": "low"
+  },
+  {
+    "Name": "Capybara Plushie",
+    "Rarity": "Normal",
+    "Value": "100",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Manarium",
+    "Rarity": "Normal",
+    "Value": "90",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Flying Gem",
+    "Rarity": "Normal",
+    "Value": "80",
+    "Demand": "low"
+  },
+  {
+    "Name": "King Soul",
+    "Rarity": "Normal",
+    "Value": "60",
+    "Demand": "low"
+  },
+  {
+    "Name": "Chocolate Bunny",
+    "Rarity": "Normal",
+    "Value": "55",
+    "Demand": "low"
+  },
+  {
+    "Name": "Solar Deity",
+    "Rarity": "Normal",
+    "Value": "55",
+    "Demand": "low"
+  },
+  {
+    "Name": "Midas",
+    "Rarity": "Normal",
+    "Value": "55",
+    "Demand": "low"
+  },
+  {
+    "Name": "Cardinal Bunny",
+    "Rarity": "Normal",
+    "Value": "50",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Dragon Plushie",
+    "Rarity": "Normal",
+    "Value": "50",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Toilet Doggy",
+    "Rarity": "Normal",
+    "Value": "50",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Starlight",
+    "Rarity": "Normal",
+    "Value": "40",
+    "Demand": "low"
+  },
+  {
+    "Name": "Crescent Empress",
+    "Rarity": "Normal",
+    "Value": "40",
+    "Demand": "low"
+  },
+  {
+    "Name": "Demonic Dogcat",
+    "Rarity": "Normal",
+    "Value": "35",
+    "Demand": "low"
+  },
+  {
+    "Name": "Moonlight",
+    "Rarity": "Normal",
+    "Value": "35",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Sigma Serpent",
+    "Rarity": "Normal",
+    "Value": "30",
+    "Demand": "medium"
+  },
+  {
+    "Name": "King Pufferfish",
+    "Rarity": "Normal",
+    "Value": "25",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Lunar Deity",
+    "Rarity": "Normal",
+    "Value": "25",
+    "Demand": "low"
+  },
+  {
+    "Name": "Dawn",
+    "Rarity": "Normal",
+    "Value": "25",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Holy Egg",
+    "Rarity": "Normal",
+    "Value": "22",
+    "Demand": "low"
+  },
+  {
+    "Name": "Magmas",
+    "Rarity": "Normal",
+    "Value": "20",
+    "Demand": "low"
+  },
+  {
+    "Name": "Moon Deer",
+    "Rarity": "Normal",
+    "Value": "20",
+    "Demand": "low"
+  },
+  {
+    "Name": "Kitsune",
+    "Rarity": "Normal",
+    "Value": "20",
+    "Demand": "low"
+  },
+  {
+    "Name": "Trio Cube",
+    "Rarity": "Normal",
+    "Value": "20",
+    "Demand": "low"
+  },
+  {
+    "Name": "NULLVoid",
+    "Rarity": "Normal",
+    "Value": "20",
+    "Demand": "low"
+  },
+  {
+    "Name": "Umbra",
+    "Rarity": "Normal",
+    "Value": "15",
+    "Demand": "low"
+  },
+  {
+    "Name": "Ophanim",
+    "Rarity": "Normal",
+    "Value": "15",
+    "Demand": "low"
+  },
+  {
+    "Name": "DOOF",
+    "Rarity": "Normal",
+    "Value": "15",
+    "Demand": "low"
+  },
+  {
+    "Name": "Dusk",
+    "Rarity": "Normal",
+    "Value": "15",
+    "Demand": "low"
+  },
+  {
+    "Name": "Parasite",
+    "Rarity": "Normal",
+    "Value": "5",
+    "Demand": "low"
+  },
+  {
+    "Name": "Emerald Wolf",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Diamond Hexarium",
+    "Rarity": "Normal",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Dualcorn",
+    "Rarity": "Normal",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Easter Serpent",
+    "Rarity": "Normal",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Bionic Shard",
+    "Rarity": "Normal",
+    "Value": "0",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Cute Deer",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Corrupt Glitch",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Easter Egg",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Darkness Creature",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Bronze Bunny",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Bow Bunny",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Prismatic",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Hell Demon",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Crimson Bloodmoon",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Long Kitty",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "ROUND",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Demon Angel",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Demonweb",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Flying Bunny",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Gamer Boi",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Mining Doggy",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Cyborg Phoenix",
+    "Rarity": "Normal",
+    "Value": "0",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Easter Fluffle",
+    "Rarity": "Normal",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Moonburst",
+    "Rarity": "Normal",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Diamond Serpent",
+    "Rarity": "Normal",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Crystal Unicorn",
+    "Rarity": "Normal",
+    "Value": "0",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Dice Split",
+    "Rarity": "Normal",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Robo Kitty",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Starry Lamb",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Stone Gargoyle",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Game Doggy",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Sleepy Bunny",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Mining Bat",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Cyber Wolf",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Cave Mole",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Ore Golem",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Space Invader",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Queen of Hearts",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Martian Kitty",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Fancy Demon",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Crimson Butterfly",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Game Master",
+    "Rarity": "Normal",
+    "Value": "0",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Hacker Prism",
+    "Rarity": "Normal",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Inferno Cube",
+    "Rarity": "Normal",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Lunar Serpent",
+    "Rarity": "Normal",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Virus",
+    "Rarity": "Normal",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Happy Dice",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Sir Doggyton",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Vaporium",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Bunnnny",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Competitor Doggy",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Golden Golem",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Silver Fox",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Golden Dragon",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Emerald Bat",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Space Mouse",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Deer",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Angel",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Void Kitty",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Void Bat",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Orange Deer",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Inferno Dragon",
+    "Rarity": "Normal",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Hexarium",
+    "Rarity": "Normal",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Neon Elemental",
+    "Rarity": "Normal",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Demon Doggy",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Judgement",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Dinosaur",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Cave Bat",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Enlightened Kitty",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Lunar Fox",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Manny",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Yellow Fox",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Bunny Doggy",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Hell Piggy",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Night Crawler",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Bunny",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Kitty",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Ice Dragon",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Green Angel",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Wolf",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Ruby Golem",
+    "Rarity": "Normal",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Silly Doggy",
+    "Rarity": "Shiny",
+    "Value": "45,000",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Godly Gem",
+    "Rarity": "Shiny",
+    "Value": "40,000",
+    "Demand": "very high"
+  },
+  {
+    "Name": "Shiny Easter Basket",
+    "Rarity": "Shiny",
+    "Value": "35,000",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Giant Chocolate Chicken",
+    "Rarity": "Shiny",
+    "Value": "22,000",
+    "Demand": "high"
+  },
+  {
+    "Name": "Shiny Lord Shock",
+    "Rarity": "Shiny",
+    "Value": "12,500",
+    "Demand": "high"
+  },
+  {
+    "Name": "Shiny Wolflord",
+    "Rarity": "Shiny",
+    "Value": "10,500",
+    "Demand": "very high"
+  },
+  {
+    "Name": "Shiny Royal Trophy",
+    "Rarity": "Shiny",
+    "Value": "7,800",
+    "Demand": "high"
+  },
+  {
+    "Name": "Shiny Dowodle",
+    "Rarity": "Shiny",
+    "Value": "5,600",
+    "Demand": "high"
+  },
+  {
+    "Name": "Shiny Luminosity",
+    "Rarity": "Shiny",
+    "Value": "4,500",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Avernus",
+    "Rarity": "Shiny",
+    "Value": "4,000",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Patronus",
+    "Rarity": "Shiny",
+    "Value": "3,500",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Beta TV",
+    "Rarity": "Shiny",
+    "Value": "2,800",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Infernus",
+    "Rarity": "Shiny",
+    "Value": "2,450",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny King Doggy",
+    "Rarity": "Shiny",
+    "Value": "2,350",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Seraph",
+    "Rarity": "Shiny",
+    "Value": "1,800",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Electra Hydra",
+    "Rarity": "Shiny",
+    "Value": "1,750",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Nebula",
+    "Rarity": "Shiny",
+    "Value": "1,750",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Overseer",
+    "Rarity": "Shiny",
+    "Value": "1,500",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny MAN FACE GOD",
+    "Rarity": "Shiny",
+    "Value": "O/C",
+    "Demand": "high"
+  },
+  {
+    "Name": "Shiny Dementor",
+    "Rarity": "Shiny",
+    "Value": "O/C",
+    "Demand": "insane"
+  },
+  {
+    "Name": "Shiny D0ggy1337",
+    "Rarity": "Shiny",
+    "Value": "1,350",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Jackpot",
+    "Rarity": "Shiny",
+    "Value": "1,250",
+    "Demand": "high"
+  },
+  {
+    "Name": "Shiny Dark Serpent",
+    "Rarity": "Shiny",
+    "Value": "1,225",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Mech Robot",
+    "Rarity": "Shiny",
+    "Value": "1,050",
+    "Demand": "high"
+  },
+  {
+    "Name": "Shiny The Overlord",
+    "Rarity": "Shiny",
+    "Value": "900",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Enraged Phoenix",
+    "Rarity": "Shiny",
+    "Value": "875",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Capybara Plushie",
+    "Rarity": "Shiny",
+    "Value": "700",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Manarium",
+    "Rarity": "Shiny",
+    "Value": "450",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Flying Gem",
+    "Rarity": "Shiny",
+    "Value": "400",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Toilet Doggy",
+    "Rarity": "Shiny",
+    "Value": "350",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny King Soul",
+    "Rarity": "Shiny",
+    "Value": "300",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Chocolate Bunny",
+    "Rarity": "Shiny",
+    "Value": "275",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Midas",
+    "Rarity": "Shiny",
+    "Value": "275",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Solar Deity",
+    "Rarity": "Shiny",
+    "Value": "275",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Cardinal Bunny",
+    "Rarity": "Shiny",
+    "Value": "250",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Dragon Plushie",
+    "Rarity": "Shiny",
+    "Value": "250",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Starlight",
+    "Rarity": "Shiny",
+    "Value": "200",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Crescent Empress",
+    "Rarity": "Shiny",
+    "Value": "200",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Demonic Dogcat",
+    "Rarity": "Shiny",
+    "Value": "175",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Moonlight",
+    "Rarity": "Shiny",
+    "Value": "175",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Sigma Serpent",
+    "Rarity": "Shiny",
+    "Value": "150",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Kitsune",
+    "Rarity": "Shiny",
+    "Value": "150",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Lunar Deity",
+    "Rarity": "Shiny",
+    "Value": "125",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Dawn",
+    "Rarity": "Shiny",
+    "Value": "125",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny King Pufferfish",
+    "Rarity": "Shiny",
+    "Value": "125",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Holy Egg",
+    "Rarity": "Shiny",
+    "Value": "110",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Umbra",
+    "Rarity": "Shiny",
+    "Value": "100",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Moon Deer",
+    "Rarity": "Shiny",
+    "Value": "100",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Magmas",
+    "Rarity": "Shiny",
+    "Value": "100",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny NULLVoid",
+    "Rarity": "Shiny",
+    "Value": "100",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Trio Cube",
+    "Rarity": "Shiny",
+    "Value": "100",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Dusk",
+    "Rarity": "Shiny",
+    "Value": "75",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Ophanim",
+    "Rarity": "Shiny",
+    "Value": "75",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny DOOF",
+    "Rarity": "Shiny",
+    "Value": "75",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Parasite",
+    "Rarity": "Shiny",
+    "Value": "30",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Hacker Prism",
+    "Rarity": "Shiny",
+    "Value": "25",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Bionic Shard",
+    "Rarity": "Shiny",
+    "Value": "20",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Dice Split",
+    "Rarity": "Shiny",
+    "Value": "10",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Elite Challenger",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Cute Deer",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Space Invader",
+    "Rarity": "Shiny",
+    "Value": "0",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Diamond Hexarium",
+    "Rarity": "Shiny",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Easter Serpent",
+    "Rarity": "Shiny",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Elite Soul",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Long Kitty",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Crimson Butterfly",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny ROUND",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Sir Doggyton",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Queen Kitty",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Prophet",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Dualcorn",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Flying Bunny",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Vaporium",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Corrupt Glitch",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Bow Bunny",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Prismatic",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Hell Demon",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Crimson Bloodmoon",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Demonweb",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Demon Angel",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Game Master",
+    "Rarity": "Shiny",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Easter Fluffle",
+    "Rarity": "Shiny",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Easter Egg",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Emerald Wolf",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Darkness Creature",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Gamer Boi",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Game Doggy",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Discord Imp",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Stone Gargoyle",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Ore Golem",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mining Doggy",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Robo Kitty",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Queen of Hearts",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Sleepy Bunny",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Cyber Wolf",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Happy Dice",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Cave Mole",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mining Bat",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Fancy Demon",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Starry Lamb",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Cyborg Phoenix",
+    "Rarity": "Shiny",
+    "Value": "0",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Diamond Serpent",
+    "Rarity": "Shiny",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Crystal Unicorn",
+    "Rarity": "Shiny",
+    "Value": "0",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Sunburst",
+    "Rarity": "Shiny",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Bunnnny",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Competitor Doggy",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Golden Golem",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Martian Kitty",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Silver Fox",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Golden Dragon",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Bronze Bunny",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Cave Bat",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Demon",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Green Angel",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Wolf",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Ruby Golem",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Void Bat",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Space Bull",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Judgement",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Skeletal Deer",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Rainbow Shock",
+    "Rarity": "Shiny",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Seraphic Bunny",
+    "Rarity": "Shiny",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Rainbow Marshmellow",
+    "Rarity": "Shiny",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Holy Shock",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Ice Dragon",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Evil Shock",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Enlightened Kitty",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Manny",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Hell Bat",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Hatchling",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Egg Bunny",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Demon Doggy",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Angel",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Magma Doggy",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Magma Fox",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Orange Deer",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Dark Dragon",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Magma Deer",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Void Demon",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Dinosaur",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Inferno Dragon",
+    "Rarity": "Shiny",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Inferno Cube",
+    "Rarity": "Shiny",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Unicorn",
+    "Rarity": "Shiny",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Virus",
+    "Rarity": "Shiny",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Neon Elemental",
+    "Rarity": "Shiny",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Lunar Fox",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Panda",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Lunarcorn",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Emerald Bat",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Night Crawler",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Space Mouse",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Bunny",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Kitty",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Deer",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Dark Bat",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Hell Crawler",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Piggy",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Ice Kitty",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Void Kitty",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Ice Deer",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Moonburst",
+    "Rarity": "Shiny",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Abyssal Dragon",
+    "Rarity": "Shiny",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Emerald Golem",
+    "Rarity": "Shiny",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Electra",
+    "Rarity": "Shiny",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Flying Pig",
+    "Rarity": "Shiny",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Hell Piggy",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Red Golem",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Paper Doggy",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Inferno Demon",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Ice Wolf",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Fox",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Yellow Fox",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Hell Dragon",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Magma Bear",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Mouse",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Manicorn",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Doggy",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Rainbow Blitz",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Bear",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Dragon",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Demonic Hydra",
+    "Rarity": "Shiny",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Green Hydra",
+    "Rarity": "Shiny",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Hexarium",
+    "Rarity": "Shiny",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Sweet Treat",
+    "Rarity": "Shiny",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Lunar Serpent",
+    "Rarity": "Shiny",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Dark Phoenix",
+    "Rarity": "Shiny",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Ethereal Bunny",
+    "Rarity": "Shiny",
+    "Value": "0",
+    "Demand": "low"
+  },
+  {
+    "Name": "Shiny Void Fox",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Chubby Bunny",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Paper Bunny",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Golem",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Polar Bear",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Bunny Doggy",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  },
+  {
+    "Name": "Shiny Angel Bunny",
+    "Rarity": "Shiny",
+    "Value": "N/A",
+    "Demand": "medium"
+  }
+]
